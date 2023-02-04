@@ -1,0 +1,42 @@
+body {
+    font-family: 'Krona One', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.robo {
+    font-size: 50px;
+    color: orangered
+}
+
+section {
+    display: flex;
+}
+
+.hafe-width {
+    width: 40%;
+    padding-left: 5%;
+}
+
+.hafe-width image {
+    width: 70%;
+    image-resolution: 500%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 800;
+    color: whitesmoke;
+
+}
+
+.top-banner {
+    background-image: url(image/banner.png);
+    background-repeat: no-repeat;
+}
