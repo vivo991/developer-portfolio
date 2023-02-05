@@ -14,6 +14,9 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
+    margin: right 50px;
+
 }
 
 .hafe-width {
@@ -32,11 +35,17 @@ section {
     padding: 10px 40px;
     border-radius: 10px;
     font-weight: 800;
-    color: whitesmoke;
 
 }
 
 .top-banner {
     background-image: url(image/banner.png);
     background-repeat: no-repeat;
+}
+
+.Dream-big {
+    background-image: url(image/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
 }
